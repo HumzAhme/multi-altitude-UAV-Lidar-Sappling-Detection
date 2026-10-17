@@ -10,6 +10,8 @@ two real production crashes that were found and fixed during development —
 described honestly below, not glossed over, because understanding what broke
 and why is part of trusting what's shipped now.
 
+![Drone flying above a forest](https://fly4future.com/wp-content/uploads/2023/07/Forest-inspection-above-forest.jpg)
+
 ---
 
 ## Who this is for
